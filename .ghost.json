@@ -1,0 +1,6 @@
+{
+  "development": {
+    "apiUrl": "http://localhost:2368",
+    "contentApiKey": "5172055204aaf096d193e6b086"
+  }
+}
